@@ -2,15 +2,12 @@ namespace DMA_Active_RTEs_1
 {
     using System;
     using System.Collections.Generic;
-    using System.Globalization;
     using System.Linq;
-    using System.Text;
     using Newtonsoft.Json;
     using Skyline.DataMiner.Automation;
     using Skyline.DataMiner.Core.DataMinerSystem.Automation;
     using Skyline.DataMiner.Core.DataMinerSystem.Common;
     using Skyline.DataMiner.Net.Messages;
-    using Skyline.DataMiner.Net.Messages.SLDataGateway;
 
     /// <summary>
     /// Represents a DataMiner Automation script.
